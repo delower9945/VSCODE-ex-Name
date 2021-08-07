@@ -1,0 +1,18 @@
+ Auto Import 
+ coder Runner
+ code spell checker 
+ eslint 
+ html css suport
+ html snipets
+ intellisense for css
+ javascript es6
+ laravel blade snippets
+ laravel sniperts
+ liver server
+ npm 
+ npm intellisence
+ path Interllisence 
+ Php Intelephense
+ React Extentson pas
+ search node modulse
+ svg viewer 
